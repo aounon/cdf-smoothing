@@ -1,7 +1,7 @@
 # Certifying Confidence via Randomized Smoothing
 
 This repository contains code for the paper [Certifying Confidence via Randomized Smoothing](https://arxiv.org/abs/2009.08061) by Aounon Kumar,
-Alexander Levine, Soheil Feizi and Tom Goldstein. It is built on the publically-availabe code repository
+Alexander Levine, Soheil Feizi and Tom Goldstein. It is built on the publicly availabe [code repository](https://github.com/locuslab/smoothing)
 for the paper [Certified Adversarial Robustness via Randomized Smoothing](https://arxiv.org/abs/1902.02918) by (Cohen et al. 2019).
 
 Randomized smoothing has been shown to provide good certified-robustness guarantees for high-dimensional classification problems.
